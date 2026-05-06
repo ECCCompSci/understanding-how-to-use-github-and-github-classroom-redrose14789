@@ -8,11 +8,11 @@
 
 **What is your first and last name?**
 
-My name is: _____
+My name is: emily harms
 
 **What grade are you in?**
 
-I am in: _____ grade.
+I am in: 9th grade.
 
 ---
 
@@ -20,11 +20,11 @@ I am in: _____ grade.
 
 **Have you used GitHub before this class? (Yes / No)**
 
-Answer: _____
+Answer: No
 
 **On a scale of 1–5, how comfortable are you with computers and technology? (1 = not at all, 5 = very comfortable)**
 
-Rating: _____
+Rating: 2
 
 ---
 
@@ -32,7 +32,7 @@ Rating: _____
 
 **In your own words, what does it mean to "clone" a repository?**
 
-Answer: _____
+Answer: allows to add changes and add files as well as ad on to existing ones
 
 ---
 
@@ -40,7 +40,7 @@ Answer: _____
 
 **Describe the steps you followed to turn in this assignment. What did you do after editing this file?**
 
-Answer: _____
+Answer: save it
 
 ---
 
@@ -48,7 +48,7 @@ Answer: _____
 
 **Share one fun fact about yourself:**
 
-Fun fact: _____
+Fun fact: I suck at tec things and I dont play video games or anything. I just really like coding langueges 
 
 ---
 
